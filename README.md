@@ -265,13 +265,6 @@ Reframed cold-start forecasting as a strategy selection problem. Used normalised
 
 ---
 
-<div align="center">
-
-## 🐍 Snake Eating My Contributions
-
-![Snake animation](https://raw.githubusercontent.com/parthwhy/parthwhy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
